@@ -1,4 +1,4 @@
-# dependency-injection-advance
+# Dependency Injection Spring Framework
 dependency injection based on user request
 
 this repository containt an example on how to use dependency injection in a dynamic way ,where a user can  provide some info in the request that will make the application inject a service implementation in run time  based on what the user want and provided in the request
