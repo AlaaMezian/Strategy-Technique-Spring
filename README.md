@@ -1,6 +1,8 @@
 # Dependency Injection Spring Framework
 dependency injection based on user request
 
+normally when we use depedancy injection we want to inject some implmenetation based on some input from the user ,how ever Spring Boot has no way of knowing which one of my implementation classes I want to inject into the controller.
+
 this repository containt an example on how to use dependency injection in a dynamic way ,where a user can  provide some info in the request that will make the application inject a service implementation in run time  based on what the user want and provided in the request
 
 this example demonstrate how we can make a good use of depedancy injection using spring boot framework and the pwoer of spring boot framework ,
