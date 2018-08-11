@@ -31,5 +31,7 @@ public class EnglishLanguage implements LanguageService {
 
 }
 ```
-Please go inside the repository to get the bigger picture :point_right: :v:  [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet)
+Please go inside the repository to get the bigger picture :point_right: :v:
+
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet)
 
