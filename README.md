@@ -1,7 +1,7 @@
-# Dependency Injection Spring Framework
+# Dependency Injection Spring Framework  [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet)
+
 dependency injection based on user request
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet)
 
 normally when we use depedancy injection we want to inject some implmenetation based on some input from the user ,how ever Spring Boot has no way of knowing which one of my implementation classes I want to inject into the controller.
 
