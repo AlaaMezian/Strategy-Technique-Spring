@@ -1,6 +1,6 @@
 # Strategy Techniqu Spring Framework 
 
-provide prpoer implementation based on user request 
+provide proper implementation based on user request 
 
 
 this repository containt an example on how to use strategy in a dynamic way ,where a user can  provide some info in the request that will make the application choose/provide a service implementation in run time  based on what the user want and provided in the request
