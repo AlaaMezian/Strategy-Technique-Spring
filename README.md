@@ -1,4 +1,4 @@
-# Strategy Techniqu Spring Framework 
+# Strategy Technique Spring Framework 
 
 provide proper implementation based on user request 
 
