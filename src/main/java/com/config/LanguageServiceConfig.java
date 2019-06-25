@@ -21,9 +21,9 @@ public class LanguageServiceConfig {
 	@Bean
 	@Scope(value = "request", proxyMode = ScopedProxyMode.INTERFACES)
 	public LanguageService getLanguageService() {
-		HttpServletRequest curRequest = ((ServletRequestAttributes) RequestContextHolder.currentRequestAttributes())
+		HttpServletRequest currrentRequest = ((ServletRequestAttributes) RequestContextHolder.currentRequestAttributes())
 				.getRequest();
-		String langName = curRequest.getHeader("lang");
+		String langName = currrentRequest.getHeader("lang");
 		if (langName != null) {
 			if (langName.equals("en"))
 				return new EnglishLanguage();
